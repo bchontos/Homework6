@@ -1,0 +1,27 @@
+li{
+    overflow: auto;
+}
+
+.high{
+    color: red;
+    background-color: black;
+}
+
+.medium{
+    color: orange ;
+    background-color: black;
+}
+
+.low{
+    color: teal;
+    background-color: black;
+}
+
+.badge{
+    font-size: 100%;
+}
+
+#weather-icon{
+    max-width: 50px;
+    max-height: 50px;
+}
